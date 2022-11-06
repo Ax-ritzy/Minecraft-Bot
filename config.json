@@ -3,5 +3,4 @@
 	"port": 48847,
 	"name": "Bot",
 	"auto-night-skip":"true",
-	"login-enabled":"true",
 }
