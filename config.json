@@ -4,6 +4,4 @@
 	"name": "Bot",
 	"auto-night-skip":"true",
 	"login-enabled":"true",
-	"register-cmd":"/register ()) ())",
-	"login-cmd":"/login ()"
 }
